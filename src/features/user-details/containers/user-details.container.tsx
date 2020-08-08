@@ -1,10 +1,10 @@
 import React from "react";
-import UserList from "../components";
+import UserDetails from "../components";
 
 const UserContainer = () => {
   return (
     <div>
-      <UserList />
+      <UserDetails />
     </div>
   );
 };
