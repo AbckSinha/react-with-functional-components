@@ -1,7 +1,7 @@
 import React from "react";
 import UserDetails from "../components";
 
-const UserContainer = () => {
+const UserDetailsContainer = () => {
   return (
     <div>
       <UserDetails />
@@ -9,4 +9,4 @@ const UserContainer = () => {
   );
 };
 
-export default UserContainer;
+export default UserDetailsContainer;
